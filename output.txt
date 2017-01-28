@@ -1,0 +1,34 @@
+
+Valid Declaration
+Value of the variable : 12.30	
+Value of the variable : 10.00	
+Value of the variable : 22.00	
+Value of the variable : 0.00	
+Value of the variable : 15.00	
+
+division by zero
+
+Value of the expression in line :	0.00
+
+
+single line comment found
+
+Value of the expression in line :	1.00
+
+
+ Multiple line comment found 
+
+Value of the expression in line :	1.00
+check GT : 1.000000
+Value of the expression in line :	4.61
+Value of the expression in line :	-11.00
+value of expression in ELSE: -11.00
+
+value of expression in IF: 1.00
+check Lt : 0.000000
+Value of the expression in line :	3.00
+Value of the expression in line :	1.00
+value of expression in ELSE: 1.00
+
+
+Valid main function declaration !!!! 

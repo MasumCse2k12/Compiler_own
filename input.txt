@@ -1,0 +1,44 @@
+ 
+
+null power_house()
+{
+
+real abc cm cde cm sum cm  mult cm result cm divisor cm vhajjo sm
+
+abc := 12.3 sm
+cde := 10 sm
+
+sum := abc ++ cde sm
+
+
+
+divisor :=0 sm
+vhajjo :=15 sm
+vhajjo // divisor sm
+
+<! single line comment !!!
+
+13 %% 3 sm
+
+
+<< multiple line comment
+    this is multiple line comment
+    1++2 sm
+>>
+
+sin(3.1416//2) sm
+either (2 GT 1) 
+either(2016 %% 4)
+ log(100) sm
+or 
+ 21 -- 32 sm
+
+either(3 LT 3)
+1++2 sm
+or
+tan(3.1415//4) sm
+
+
+
+
+}
